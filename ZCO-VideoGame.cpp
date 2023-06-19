@@ -10,7 +10,7 @@ int main()
     bool hasBox=false;
     int stackBoxes[n];
     for(int i=0;i<n;i++){
-            cin >> stackBoxes[i];
+         cin >> stackBoxes[i];
         }
         int a=1;
         
